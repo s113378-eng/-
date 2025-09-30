@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    text-align: center;
+    background-color: #111;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+canvas {
+    border: 1px solid white;
+    background-color: #000;
+    background-image: radial-gradient(white 1px, transparent 0);
+    background-size: 40px 40px;
+}
